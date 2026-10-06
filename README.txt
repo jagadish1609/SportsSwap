@@ -31,65 +31,65 @@ The Sports Equipment Marketplace is maintained and developed by a team of dedica
 
 ##STEP BY STEP PROCESSS:
 1. User Registration & Authentication
-✅ Sign Up/Login: Users create an account using email, phone, or social media.
-✅ Profile Setup: Users set up their profiles, including location, preferred sports, and payment details (optional).
+ Sign Up/Login: Users create an account using email, phone, or social media.
+ Profile Setup: Users set up their profiles, including location, preferred sports, and payment details (optional).
 
 2. Listing an Item for Sale/Trade
-✅ Create a Listing: The seller fills out details such as:
+ Create a Listing: The seller fills out details such as:
 
 Item Name & Description
 Sport Category (e.g., Football, Tennis, Golf)
 Condition (New/Used)
 Price or Trade Preferences
 Photos of the Product
-✅ Set Availability & Location: Optionally, sellers can specify pickup/delivery options.
+ Set Availability & Location: Optionally, sellers can specify pickup/delivery options.
 
-✅ Post the Listing: The item goes live on the marketplace after verification (manual or automated).
+ Post the Listing: The item goes live on the marketplace after verification (manual or automated).
 
 3. Browsing & Searching for Products
-✅ Search & Filters: Buyers browse items using filters like:
+ Search & Filters: Buyers browse items using filters like:
 
 Sport Type
 Price Range
 Item Condition (New/Used)
 Location
-✅ Product Details Page: Clicking an item shows its details, seller info, and user reviews.
+ Product Details Page: Clicking an item shows its details, seller info, and user reviews.
 
-✅ Chat or Make an Offer: Buyers can message the seller, negotiate, or directly purchase.
+ Chat or Make an Offer: Buyers can message the seller, negotiate, or directly purchase.
 
 4. Buying & Payment Processing
-✅ Add to Cart & Checkout: Users select items and proceed to checkout.
+ Add to Cart & Checkout: Users select items and proceed to checkout.
 
-✅ Secure Payment Processing: Supported payment options:
+ Secure Payment Processing: Supported payment options:
 
 Credit/Debit Cards
 PayPal, Google Pay, Apple Pay
 Escrow (optional for high-value items)
-✅ Order Confirmation: The system generates an invoice and sends email notifications.
+ Order Confirmation: The system generates an invoice and sends email notifications.
 
 5. Shipping & Delivery
-✅ Seller Ships the Item: The seller selects a shipping method (courier pickup or self-shipping).
+ Seller Ships the Item: The seller selects a shipping method (courier pickup or self-shipping).
 
-✅ Tracking & Notifications: Buyers receive tracking updates via email or dashboard.
+ Tracking & Notifications: Buyers receive tracking updates via email or dashboard.
 
-✅ Local Pickup (Optional): If chosen, the buyer and seller coordinate a meeting spot.
+ Local Pickup (Optional): If chosen, the buyer and seller coordinate a meeting spot.
 
 6. Reviews & Ratings
-✅ Rate & Review: After receiving the item, the buyer rates the seller and writes a review.
+ Rate & Review: After receiving the item, the buyer rates the seller and writes a review.
 
-✅ Seller Feedback: Sellers can also rate buyers to ensure a trustworthy marketplace.
+ Seller Feedback: Sellers can also rate buyers to ensure a trustworthy marketplace.
 
 7. Dispute Resolution (If Needed)
-✅ Report an Issue: If a product is damaged or misrepresented, the buyer can raise a dispute.
+ Report an Issue: If a product is damaged or misrepresented, the buyer can raise a dispute.
 
-✅ Support Team Involvement: Admins review the case and provide resolutions (refund, return, etc.).
+ Support Team Involvement: Admins review the case and provide resolutions (refund, return, etc.).
 
 8. Account & Wallet Management
-✅ User Wallet: Users can store funds from sales and withdraw to their bank accounts.
+ User Wallet: Users can store funds from sales and withdraw to their bank accounts.
 
-✅ Order History: Buyers and sellers can track past transactions.
+ Order History: Buyers and sellers can track past transactions.
 
-✅ Profile Customization: Users can update preferences, notifications, and saved searches.
+ Profile Customization: Users can update preferences, notifications, and saved searches.
 
 
 Maintainers:
