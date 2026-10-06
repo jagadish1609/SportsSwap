@@ -96,7 +96,7 @@ Maintainers:
 
 [vangala srinesh goud] (Project Lead and Developer)
 [pallavi reddy] (Frontend Developer)
-[jagadish naidu] (Backend Developer)
+[Yelisetti Satya Jagadeesh] (Backend Developer)
 Contributors: Anyone interested in improving the platform, whether by reporting bugs, submitting features, or improving documentation, can contribute through pull requests or by joining discussions on the project's GitHub repository.
 
 To contribute, check out the project’s GitHub page for guidelines and open issues.
